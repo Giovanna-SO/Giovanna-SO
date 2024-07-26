@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Giovanna, I'm 22 years old
+- 💞️ I am a postgraduate student in public health (immunology and biotechnology) at the Adolfo Lutz Institute
+- 🌱 I’m currently learning about life sciences and inovations
+- ⚡ Fun fact: I love statistics and bioinformatics
